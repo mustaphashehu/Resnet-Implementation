@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ResNet-50 Hand Sign Image Classifier
 
 A deep learning image-classification project that implements **ResNet-50 from scratch with TensorFlow/Keras** and trains it to recognize six classes of hand signs from RGB images.
@@ -804,3 +805,6 @@ Additional architecture and API references:
 This project implements a complete **ResNet-50 image-classification system from first principles using TensorFlow/Keras**. The network is constructed from custom residual blocks, trained on 1,080 hand-sign images, evaluated on 120 unseen images, and extended with a utility for predicting individual images.
 
 The recorded model achieved **97.5% test accuracy after 10 epochs**, demonstrating both the effectiveness of residual learning and the ability of the implementation to train a deep convolutional architecture successfully on the six-class dataset.
+=======
+# Resnet-Implementation
+>>>>>>> 2d85fd0ffff1c14d5ba4e00422154d48e2b3f3ef
